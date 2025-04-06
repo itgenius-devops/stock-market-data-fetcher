@@ -1,4 +1,4 @@
-# 📆 Stock Sync: Automating Market Data Delivery for the Analytics Team
+# Stock Sync: Automating Market Data Delivery for the Analytics Team
 
 Welcome to your **DevOps API challenge**. In this assignment, you are to simulate a real-world scenario where a **Data Analytics team** needs daily **stock market data** from Alpha Vantage.
 
