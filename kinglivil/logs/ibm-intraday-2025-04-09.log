@@ -1,0 +1,4 @@
+Fetching IBM stock data for 2025-04-09...
+Saved CSV to ./csv/ibm-intraday-2025-04-09.csv
+Saved JSON to ./json/ibm-intraday-2025-04-09.json
+✅ Fetch complete for 2025-04-09
