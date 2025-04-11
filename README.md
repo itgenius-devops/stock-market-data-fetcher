@@ -13,7 +13,7 @@ Follow the steps below carefully:
 
 ### 1. Clone the Repository
 
-- Use the `git clone` command to clone this repository to your local machine:
+- Use the `git clone` command to clone this repository to your local machine ( THIS JOB IS MEANT TO BE DONE IN YOUR LINUX SERVER ):
   ```
   https://github.com/itgenius-devops/stock-market-data-fetcher.git
   ```
