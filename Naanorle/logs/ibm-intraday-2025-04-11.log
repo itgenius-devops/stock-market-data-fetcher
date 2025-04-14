@@ -1,0 +1,45 @@
+📅 Processing 2025-04-11
+--2025-04-14 20:52:57--  https://www.alphavantage.co/query?function=TIME_SERIES_INTRADAY&symbol=IBM&interval=5min&outputsize=full&datatype=csv&apikey=L2CS5Y3MI25MWQRY
+Resolving www.alphavantage.co (www.alphavantage.co)... 2606:4700:10::6816:46d1, 2606:4700:10::ac43:1702, 2606:4700:10::6816:47d1, ...
+Connecting to www.alphavantage.co (www.alphavantage.co)|2606:4700:10::6816:46d1|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 231202 (226K) [application/x-download]
+Saving to: ‘/home/ec2-user/git_assignment/stock-market-data-fetcher/Naanorle/csv/ibm-intraday-2025-04-11.csv’
+
+     0K .......... .......... .......... .......... .......... 22% 65.5M 0s
+    50K .......... .......... .......... .......... .......... 44% 30.2M 0s
+   100K .......... .......... .......... .......... .......... 66% 11.6M 0s
+   150K .......... .......... .......... .......... .......... 88% 24.1M 0s
+   200K .......... .......... .....                           100% 10.8M=0.01s
+
+2025-04-14 20:52:57 (20.2 MB/s) - ‘/home/ec2-user/git_assignment/stock-market-data-fetcher/Naanorle/csv/ibm-intraday-2025-04-11.csv’ saved [231202/231202]
+
+✅ Saved CSV for 2025-04-11
+--2025-04-14 20:52:57--  https://www.alphavantage.co/query?function=TIME_SERIES_INTRADAY&symbol=IBM&interval=5min&outputsize=full&datatype=json&apikey=L2CS5Y3MI25MWQRY
+Resolving www.alphavantage.co (www.alphavantage.co)... 2606:4700:10::6816:47d1, 2606:4700:10::6816:46d1, 2606:4700:10::ac43:1702, ...
+Connecting to www.alphavantage.co (www.alphavantage.co)|2606:4700:10::6816:47d1|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 808845 (790K) [application/json]
+Saving to: ‘/home/ec2-user/git_assignment/stock-market-data-fetcher/Naanorle/json/ibm-intraday-2025-04-11.json’
+
+     0K .......... .......... .......... .......... ..........  6% 14.1M 0s
+    50K .......... .......... .......... .......... .......... 12% 5.88M 0s
+   100K .......... .......... .......... .......... .......... 18% 33.2M 0s
+   150K .......... .......... .......... .......... .......... 25% 48.4M 0s
+   200K .......... .......... .......... .......... .......... 31% 27.7M 0s
+   250K .......... .......... .......... .......... .......... 37% 23.2M 0s
+   300K .......... .......... .......... .......... .......... 44% 19.6M 0s
+   350K .......... .......... .......... .......... .......... 50% 13.4M 0s
+   400K .......... .......... .......... .......... .......... 56% 26.6M 0s
+   450K .......... .......... .......... .......... .......... 63% 23.2M 0s
+   500K .......... .......... .......... .......... .......... 69% 11.4M 0s
+   550K .......... .......... .......... .......... .......... 75% 21.8M 0s
+   600K .......... .......... .......... .......... .......... 82% 32.8M 0s
+   650K .......... .......... .......... .......... .......... 88% 20.3M 0s
+   700K .......... .......... .......... .......... .......... 94% 5.73M 0s
+   750K .......... .......... .......... .........            100%  183M=0.05s
+
+2025-04-14 20:52:57 (16.3 MB/s) - ‘/home/ec2-user/git_assignment/stock-market-data-fetcher/Naanorle/json/ibm-intraday-2025-04-11.json’ saved [808845/808845]
+
+✅ Saved JSON for 2025-04-11
+✔️ Done processing 2025-04-11
